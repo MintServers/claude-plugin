@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mintservers": {
+      "type": "http",
+      "url": "https://mintservers.com/mcp"
+    }
+  }
+}

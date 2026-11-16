@@ -1,0 +1,19 @@
+{
+  "name": "mintservers",
+  "displayName": "MintServers",
+  "version": "1.0.0",
+  "description": "Manage your MintServers game servers from Claude: start and restart, read the console, edit files, back up, update Minecraft and modpacks, schedules, databases and more.",
+  "author": {
+    "name": "MintServers",
+    "url": "https://mintservers.com"
+  },
+  "icon": ".claude-plugin/icon.png",
+  "homepage": "https://mintservers.com",
+  "repository": "https://github.com/MintServers/claude-plugin",
+  "documentationUrl": "https://github.com/MintServers/claude-plugin#readme",
+  "supportUrl": "https://mintservers.com/support",
+  "privacyPolicyUrl": "https://mintservers.com/p/privacy",
+  "termsOfServiceUrl": "https://mintservers.com/p/terms-of-service",
+  "license": "MIT",
+  "keywords": ["minecraft", "game-servers", "hosting", "modpacks", "backups", "mintservers"]
+}

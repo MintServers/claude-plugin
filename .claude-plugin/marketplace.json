@@ -1,0 +1,17 @@
+{
+  "name": "mintservers",
+  "owner": {
+    "name": "MintServers",
+    "url": "https://mintservers.com"
+  },
+  "description": "Official MintServers plugins for Claude.",
+  "plugins": [
+    {
+      "name": "mintservers",
+      "source": "./",
+      "description": "Manage your MintServers game servers from Claude.",
+      "category": "productivity",
+      "tags": ["minecraft", "game-servers", "hosting"]
+    }
+  ]
+}
